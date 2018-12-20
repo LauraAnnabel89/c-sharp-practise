@@ -1,0 +1,7 @@
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

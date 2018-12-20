@@ -1,0 +1,10 @@
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\obj\Debug\Grades.Tests.csproj.CoreCompileInputs.cache
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\bin\Debug\Grades.exe.config
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\laura.tombs\Documents\Grades\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
